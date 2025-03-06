@@ -4,11 +4,11 @@ import socket
 import sys
 
 # Telegram API token
-TOKEN = "YOUR TOKEN HERE"
+TOKEN = "7951978567:AAG9yJgp9jr_CBVTMgVYl2yRWmjhyu05KHo"
 
 
 # Admin chat ID
-ADMIN_CHAT_ID = YOUR_ID_HERE
+ADMIN_CHAT_ID = 7971457644
 
 # Initialize bot
 bot = telebot.TeleBot(TOKEN)
